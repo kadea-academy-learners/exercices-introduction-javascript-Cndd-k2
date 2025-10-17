@@ -19,7 +19,7 @@ function verifierReste(reste){
         console.log("attention serre")
     }
 }
-verifierReste(100);
+verifierReste(50);
 
 function calcultotalDepenses(salaire, depenses){
     let reste = salaire - depenses;
