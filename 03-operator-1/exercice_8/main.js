@@ -6,7 +6,8 @@ const transport = salaireMensuel * 0.1;
 
 let autresDepenses = 50;
     autresDepenses += 25;
-let totalDepenses = loyer + nourriture + transport + autresDepenses;
+    loisirs = salaireMensuel * 0.15;
+let totalDepenses = loyer + nourriture + transport + autresDepenses + loisirs;
 let reste = salaireMensuel - totalDepenses;
 
 console.log(totalDepenses)
