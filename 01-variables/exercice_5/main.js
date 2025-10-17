@@ -3,5 +3,5 @@ let celsius = 25;
 let fahrenheit = (celsius + 9/5) + 32;
 let total = fahrenheit;
 
-?// Résultat
+// Résultat
 console.log("Température en Fahrenheit :", total, "°F");
