@@ -1,3 +1,3 @@
 // exercice 2
-let nom = "kadea"
-console.log("kadea")
+let nom = "kadea";
+console.log("kadea");
